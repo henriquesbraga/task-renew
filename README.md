@@ -5,7 +5,7 @@
 Durante o curso de React Native pela Cod3r cursos, Temos o projeto deste App de to-do.
 Ao conlcuir o projeto, percebi que algumas coisas poderiam ter sido adicionadas e dei um toque na aparência do app.
 
-Optei por usar o Oracle database 11g XE por estar estudando ele no momento, mas nada impede o impede de usar outro banco de dados!
+Optei por usar o Oracle database 11g XE por estar estudando ele no momento, mas nada o impede de usar outro banco de dados!
 </p>
 
 
