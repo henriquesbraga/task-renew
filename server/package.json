@@ -1,0 +1,25 @@
+{
+  "name": "api-tasks-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "knex": "^0.21.2",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4",
+    "oracledb": "^5.0.0",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
